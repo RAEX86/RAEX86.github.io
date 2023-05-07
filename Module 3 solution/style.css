@@ -1,0 +1,46 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: black;
+
+
+}
+body{
+	background-color: #b30000;
+	color: white;
+         font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+.container
+{
+	background-color: grey;
+}
+.text-center{
+	font-size: 30px;
+        padding-bottom: 50px;
+        padding-top: 0px;
+}
+
+h2{
+	text-align: center;
+}
+
+#myNavbar ul li a {
+	color: white;
+        text-align: center;
+}
+
+.navbar-brand{
+font-size: 30px;	
+}
